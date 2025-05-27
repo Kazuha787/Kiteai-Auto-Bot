@@ -44,7 +44,7 @@ The **Pharos Testnet Bot v3.0** is a script that automates the process of intera
 1. **Clone the Repository** (or download the project files):
    ```bash
    git clone https://github.com/Kazuha787/Kiteai-Auto-Bot.git
-   cd KiteAi-Auto-Bot
+   cd Kiteai-Auto-Bot
    ```
 ## Install Required Packages:
 Ensure the following packages are installed:
