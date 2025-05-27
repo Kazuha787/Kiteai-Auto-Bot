@@ -13,7 +13,7 @@ const asciiBannerLines = [
   "██║  ██╗██║   ██║   ███████╗    ██║  ██║██║     ╚████╔╝ ███████╗",
   "╚═╝  ╚═╝╚═╝   ╚═╝   ╚══════╝    ╚═╝  ╚═╝╚═╝      ╚═══╝  ╚══════╝",
   "",
-  "       Pharos Testnet Bot v3.0 - Created By Kazuha787       ",
+  "       KITE AI BOT  v2.0 - Created By Kazuha787       ",
   "                  LETS FUCK THIS TESTNET                   ",
 ];
 
